@@ -42,3 +42,9 @@ or from a local clone:
 ```bash
 ./uninstall.sh
 ```
+
+---
+
+## For AI models / contributors
+
+Start with [AGENTS.md](AGENTS.md), then [OPEN_ITEMS.md](OPEN_ITEMS.md). **Every open item you leave behind must be documented** as a GitHub issue and in OPEN_ITEMS.md.
